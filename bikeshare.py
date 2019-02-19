@@ -284,8 +284,9 @@ def main():
             if restart.lower() != 'yes':
                 break
         else:
-            print("City was wrong. Please try correctly.")
+            print("City was wrong. Please try to do it correctly.")
             print('-'*40)
+
 
 if __name__ == "__main__":
 	main()
