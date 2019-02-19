@@ -284,6 +284,7 @@ def main():
             if restart.lower() != 'yes':
                 break
         else:
+            #modify the print message
             print("City was wrong. Please try to do it correctly.")
             print('-'*40)
 
