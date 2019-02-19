@@ -257,6 +257,7 @@ def main():
                 # Ask whether the user want to see 5 lines of data.
                 show_data = input("Would you like to specify the data?(yes or no)")
                 # if you type [yes'] except bracket, this program show all data. So I can't code ' show_data == 'yes' '
+                # if and while statments be refactored
                 if "yes" in show_data:
                     count = 5
                     print(df.head(count))
