@@ -1,15 +1,20 @@
 ### Date created
 Include the date you created this project and README file.
+this project : 2019-02-10
+ README file : 2019-02-10
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+you can search the bikeshare data on your conditions.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://www.motivateco.com/
